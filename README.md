@@ -1,2 +1,2 @@
 # Ethereum
-Compilaion of information on the blockchain technology, Ethereum.
+Information compilation on the blockchain technology, Ethereum.
